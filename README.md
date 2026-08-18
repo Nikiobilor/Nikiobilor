@@ -10,7 +10,7 @@
 
 <div align="left">
 
-* 🔧 ~2 years of hands-on AWS infrastructure experience, focused on cost optimization, rightsizing, monitoring, and automation
+* 🔧 ~3 years of hands-on AWS infrastructure experience, focused on cost optimization, rightsizing, monitoring, and automation
 * 🧪 Running a self-directed **50-Day Cloud Infrastructure Lab Challenge** — virtualization, clustering, LXD, MicroCloud, Ceph, OpenStack, and Kubernetes, built from first principles across VMware/VirtualBox and AWS Free Tier
 * 📚 Documenting a parallel **Cloud Field Engineering Training Series** — hands-on sessions covering Terraform, Ansible, VPC networking, TLS, Ceph, OpenStack, and infrastructure troubleshooting, documented as production-style tickets
 * 🤖 Exploring **Agentic AI for infrastructure engineering, automation, troubleshooting, and developer workflows**
