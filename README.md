@@ -10,17 +10,17 @@
 
 <div align="left">
 
-* 🔧 ~3 years of hands-on AWS infrastructure experience, focused on cost optimization, rightsizing, monitoring, and automation
-* 🧪 Running a self-directed **50-Day Cloud Infrastructure Lab Challenge** — virtualization, clustering, LXD, MicroCloud, Ceph, OpenStack, and Kubernetes, built from first principles across VMware/VirtualBox and AWS Free Tier
+* 🔧 ~5 years of hands-on AWS infrastructure experience, focused on cost optimization, rightsizing, monitoring, and automation
+* 🧪 Running a self-directed **50-Day Cloud Infrastructure Lab Challenge**—virtualization, clustering, LXD, MicroCloud, Ceph, OpenStack, and Kubernetes, built from first principles across VMware/VirtualBox and AWS Free Tier
 * 📚 Documenting a parallel **Cloud Field Engineering Training Series** — hands-on sessions covering Terraform, Ansible, VPC networking, TLS, Ceph, OpenStack, and infrastructure troubleshooting, documented as production-style tickets
 * 🤖 Exploring **Agentic AI for infrastructure engineering, automation, troubleshooting, and developer workflows**
 * 🎓 Founded **VOH Academy/VOH Works**, designing cloud engineering curricula and hands-on labs for learners from age 12 through working adults
 * 📜 Certified: AWS Solutions Architect Professional · Terraform Associate · Linux Foundation Certified Practitioner (LFCS) · CCNA
-* ✍️ Writing about the real debugging path — not just the fix — on LinkedIn & Medium
+* ✍️ Writing about the real debugging path on LinkedIn & Medium
 
 </div>
 
-> **Let's build resilient infrastructure — one lab, one fix, one deploy at a time.**
+> **Let's build resilient infrastructure, one lab, one fix, one deploy at a time.**
 
 ---
 
@@ -29,14 +29,8 @@
 | Project                                                                              | Description                                                                                                                |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | [cloud-field-engineer-labs](https://github.com/Nikiobilor/cloud-field-engineer-labs) | Self-directed infrastructure lab series focused on cloud, virtualization, networking, OpenStack, LXD, Ceph, and Kubernetes |
-| [50-Day Cloud Infrastructure Lab Challenge](https://github.com/Nikiobilor)           | Building and documenting a practical private-cloud infrastructure environment from first principles                        |
+| [50-Day Cloud Infrastructure Lab Challenge](https://github.com/Nikiobilor/cie.git)   | Building and documenting a practical private-cloud infrastructure environment from first principles                        |
 | [VOH Academy](https://github.com/Nikiobilor)                                         | Hands-on technology education, cloud engineering training, and workforce-simulation initiatives                            |
-
----
-
-### 📈 GitHub Stats
-
-![Nicky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikiobilor\&show_icons=true\&theme=dark\&hide_border=true)
 
 ---
 
