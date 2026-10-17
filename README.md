@@ -2,37 +2,19 @@
 
 # 👋 Hi, I'm Nicky Obilor
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nickycloud.space-0A66C2?style=flat\&logo=googlechrome\&logoColor=white)](https://nickycloud.space)
-
 </div>
 
-☁️ Cloud Engineer based in Nigeria  |  🎯 Building toward **Infrastructure Engineering**, with Canonical's Cloud Field Engineering ecosystem as a near-term focus  |  🎓 Founder, **VOH Academy/VOH Works**
-
+☁️ Cloud Engineer based in Nigeria  |  🎯 Cloud Engineer
 <div align="left">
 
-* 🔧 ~5 years of hands-on AWS infrastructure experience, focused on cost optimization, rightsizing, monitoring, and automation
-* 🧪 Running a self-directed **50-Day Cloud Infrastructure Lab Challenge**—virtualization, clustering, LXD, MicroCloud, Ceph, OpenStack, and Kubernetes, built from first principles across VMware/VirtualBox and AWS Free Tier
-* 📚 Documenting a parallel **Cloud Field Engineering Training Series** — hands-on sessions covering Terraform, Ansible, VPC networking, TLS, Ceph, OpenStack, and infrastructure troubleshooting, documented as production-style tickets
+* 🔧 ~5 years of hands-on Cloud infrastructure experience, focused on cost optimization, rightsizing, monitoring, and automation
 * 🤖 Exploring **Agentic AI for infrastructure engineering, automation, troubleshooting, and developer workflows**
-* 🎓 Founded **VOH Academy/VOH Works**, designing cloud engineering curricula and hands-on labs for learners from age 12 through working adults
 * 📜 Certified: AWS Solutions Architect Professional · Terraform Associate · Linux Foundation Certified Practitioner (LFCS) · CCNA
 * ✍️ Writing about the real debugging path on LinkedIn & Medium
 
 </div>
 
 > **Let's build resilient infrastructure, one lab, one fix, one deploy at a time.**
-
----
-
-### 📌 Featured Projects
-
-| Project                                                                              | Description                                                                                                                |
-| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| [cloud-field-engineer-labs](https://github.com/Nikiobilor/cloud-field-engineer-labs) | Self-directed infrastructure lab series focused on cloud, virtualization, networking, OpenStack, LXD, Ceph, and Kubernetes |
-| [50-Day Cloud Infrastructure Lab Challenge](https://github.com/Nikiobilor/cie.git)   | Building and documenting a practical private-cloud infrastructure environment from first principles                        |
-| [VOH Academy](https://github.com/Nikiobilor)                                         | Hands-on technology education, cloud engineering training, and workforce-simulation initiatives                            |
-
----
 
 ### 🧰 Skills
 
