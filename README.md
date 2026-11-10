@@ -4,10 +4,10 @@
 
 </div>
 
-☁️ Cloud Engineer based in Nigeria  |  🎯 Cloud Engineer
+☁️ Cloud Engineer based in Nigeria
 <div align="left">
 
-* 🔧 ~5 years of hands-on Cloud infrastructure experience, focused on cost optimization, rightsizing, monitoring, and automation
+* 🔧 ~5 years of hands-on Cloud infrastructure experience, focused on architecture design, security, cost optimization, rightsizing, monitoring, and automation
 * 🤖 Exploring **Agentic AI for infrastructure engineering, automation, troubleshooting, and developer workflows**
 * 📜 Certified: AWS Solutions Architect Professional · Terraform Associate · Linux Foundation Certified Practitioner (LFCS) · CCNA
 * ✍️ Writing about the real debugging path on LinkedIn & Medium
